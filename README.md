@@ -9,7 +9,7 @@
 
 
 
-The project focuses on a token based ticketing system with non-fungible token.<br>The project utilises following technologies: 
+The project focuses on a token based ticketing system with non-fungible token WITH ERC721 protocol.<br>The project utilises following technologies: 
 
 * Solidity
 * Javascript
