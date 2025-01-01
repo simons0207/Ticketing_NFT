@@ -19,7 +19,7 @@ This project introduces a decentralized ticketing platform using blockchain and 
 *  MetaMask
 
 
-## Instalation
+## Installation
 
 * Install [Node.js](https://nodejs.org/en/)
 * Install [Metamask wallet](https://metamask.io/download/)
