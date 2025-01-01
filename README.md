@@ -9,7 +9,7 @@
 
 
 
-The project focuses on a token based ticketing system with ** Non-Fungible Token** with **ERC721** protocol.<br>
+The project focuses on a token based ticketing system with **Non-Fungible Token** with **ERC721** protocol.<br>
 This project introduces a decentralized ticketing platform using blockchain and NFTs to eliminate ticket fraud and duplication. Each ticket is minted as a unique NFT, ensuring authenticity and secure ownership. Users can purchase, store, and transfer tickets through MetaMask, benefiting from blockchain’s transparency and security. The system also supports verified resales and potential integration with digital collectibles.<br>The project utilises following technologies: 
 
 * Solidity
