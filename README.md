@@ -1,4 +1,4 @@
-# NFT - Ticketing System
+11# NFT - Ticketing System
 
 
 ![Untitled design](https://github.com/user-attachments/assets/a30bdb92-b62e-48c2-9935-5b1735cf4456)
@@ -28,7 +28,7 @@ This project introduces a decentralized ticketing platform using blockchain and 
 
 _A guide on how to install the tools needed for running the project._<br>
 In Terminal:
-1. Clone the repository. Move to folder 
+1. Clone the repository. Move control to that folder 
 2. Install dependencies [One time process]
 
 ```bash
