@@ -28,7 +28,7 @@ This project introduces a decentralized ticketing platform using blockchain and 
 
 _A guide on how to install the tools needed for running the project._<br>
 In Terminal:
-1. Clone the repository
+1. Clone the repository. Move to folder 
 2. Install dependencies [One time process]
 
 ```bash
