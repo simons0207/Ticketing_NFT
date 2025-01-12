@@ -68,6 +68,9 @@ npm run start
 **Chain ID:** Look config.js file<br>
 **Currency symbol:**  ETH<br>
 
+##### Step - 4
+Import private key in hardhat node from terminal for Fake Ethers
+
 ## Webpage Preview
 
 ![preview](https://github.com/user-attachments/assets/e38a4b14-3085-4e79-af5f-2d46a5042832)
